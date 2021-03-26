@@ -1,0 +1,70 @@
+Initial thoughts...
+
+Here I am going to identify a problem I believe I can solve with an application and come up with some initial ideas before communicating with the customer to refine those ideas.
+
+
+
+What problem are we trying to solve?
+---
+
+Employees may have valuable feedback they want to share that can improve the company.
+They may not have the opportunity to do so because of not being in meetings, being shy, wishing to remain anonymous etc.
+The employer may find it hard to gauge employee moral and therefore get the most out of their employees.
+The employer lacks data to make informed decisions or to track how changes in policy are affecting the staff.
+
+---
+How can this application solve these problems?
+---
+
+Allow all employees to easily give feedback/suggestions to the managers, anonymously or otherwise.
+Track employee satisfaction over time.
+Generate reports for managers.
+Allow managers to post specific questions to employees.
+
+---
+What functionality will the app need?
+---
+
+Managers...
+
+LOGIN AND ACCOUNT
+can create an account
+can retrieve lost passwords
+can change their passwords
+
+FEEDBACK
+can create new feedback questions
+can create departments
+can assign certain questions to certain departments
+
+REPORTS
+can view feedback in various formats
+graphs
+tables
+
+Employees...
+can view and fill in feedback forms
+
+---
+What are some other random ideas?
+---
+Nominate an employee who they think is doing well.
+This could be displayed to employee.
+Employee praise from managers?
+Suggestions for improvements to the company.
+Group feedback by department.
+Could management reply to feedback even if it was posted anonymously?
+App should contain a short guide to writing questions.
+Could you create a monthly survey?
+Allow employees to create a survey?
+View feedback by department, question, good, bad, neutral.
+Use a 10 point scale.
+Could it display the reply to the feedback to each department when they go on the app?
+Should employees be able to make accounts?
+Could you send individual employee feedback?
+
+
+
+
+
+

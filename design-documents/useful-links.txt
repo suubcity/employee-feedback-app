@@ -1,0 +1,6 @@
+How to code reset password functionality. 
+https://ahrjarrett.com/posts/2019-02-08-resetting-user-passwords-with-node-and-jwt
+https://itnext.io/password-reset-emails-in-your-react-app-made-easy-with-nodemailer-bb27968310d7
+
+Designing your web app.
+https://www.budibase.com/blog/how-to-make-a-web-app/
